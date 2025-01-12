@@ -58,3 +58,70 @@ base:hover{
     margin-left: 70px;
     margin-right: 55px;
 }
+
+/* section2 */
+.section2{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.sectioin2-title{
+    font-weight: bold;
+    font-size: 40px;
+}
+.section2-descripton{
+    margin-top: 22px;
+    font-size: 16px;
+    color: #0E0E0E;
+    opacity: 0.7;
+
+}
+.card{
+    margin-top: 33px;
+    display: flex;
+    justify-content: space-between;
+}
+.card1{
+    width: 370px;
+    border-radius: 16px;
+    height: 320px;
+    padding-left: 24px;
+    
+}
+.card-image{
+    margin-top: 24px;
+    margin-bottom: 24px;
+   
+}
+.cardbg1{
+    background-color: lightblue;
+}
+.cardbg2{
+    background-color: #C6E4D6;
+}
+.cardbg3{
+    background-color: #F7EBCF;
+}
+
+.btn-card{
+    font-size: 16px;
+    font-weight: 600;
+    padding: 11px 20px;
+    margin-top: 22px;
+    margin-bottom: 24px;
+    border-radius: 8px;
+    border: none;
+    color: #FFFFFF;
+    
+
+}
+.btn-card-bg1{
+    background-color: #5490F5;
+}
+.btn-card-bg2{
+    background-color: #09A15C;
+    
+}
+.btn-card-bg3{
+    background-color: #FFC239;
+}
+
