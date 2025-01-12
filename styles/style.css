@@ -199,3 +199,89 @@ base:hover{
 .news-image{
     border-radius: 24px;
 }
+
+
+/* sectoion4 */
+.section4{
+    text-align: center;
+}
+.donate-title{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 0;
+    
+}
+.donate-description{
+    margin-bottom: 0px;
+}
+.money-card{
+    display: flex;
+    justify-content: space-between;
+
+}
+.money-card1{
+    color: #0E0E0E;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: #F1F1F3;
+    border-radius: 16px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.money-card2{
+    color: #0E0E0E;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.money-card3{
+    color: #0E0E0E;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: #F1F1F3;
+    border-radius: 16px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.money-card4{
+    color: #0E0E0E;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: #F1F1F3;
+    border-radius: 16px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.money-card1:hover{
+    color: darkmagenta;
+    background-color: lightblue;
+}
+.money-card2:hover{
+    color: darkmagenta;
+    background-color: lightblue;
+}
+.money-card3:hover{
+    color: darkmagenta;
+    background-color: lightblue;
+}
+.money-card4:hover{
+    color: darkmagenta;
+    background-color: lightblue;
+}
+.money-input{
+    padding: 20px 400px 20px 400px;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.btn-extra{
+    margin-bottom: 80px;
+    margin-top: 32px;
+}
