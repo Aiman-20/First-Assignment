@@ -285,3 +285,85 @@ base:hover{
     margin-bottom: 80px;
     margin-top: 32px;
 }
+
+/* section5 */
+.section5{
+    background-color: #C6E4D6;
+    border-radius: 24px;
+}
+
+.section5-title{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 80px;
+}
+.Email-subscribe{
+    display: flex;
+    justify-content: center
+}
+.subs-email{
+    padding: 18px 400px 18px 40px;
+    font-size: 20px;
+    margin-right: 0;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border: none;
+}
+
+.btn-subs{
+    margin-left: 0;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 18px 34px 20px 34px;
+    background-color: #006A50;
+    margin-top: 0;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border: none;
+    color: #FFFFFF;
+}
+.section5-description{
+    opacity: 0.7;
+    text-align: center;
+}
+.last-line{
+    opacity: 0.7;
+    font-size: 16;
+    text-align: center;
+    padding-bottom: 80px;
+}
+/* section6 */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fff;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: normal;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .icon {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
